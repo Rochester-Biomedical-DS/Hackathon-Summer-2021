@@ -1,6 +1,6 @@
 # University of Rochester Biomedical Data Science Hackathon Summer 2021
 
-[**Final scores!**](https://rochester-biomedical-ds.github.io/Hackathon-Summer-2021/Leaderboard.html)
+[**Final scores!**](https://rochester-biomedical-ds.github.io/Hackathon-Summer-2021/Leaderboard.html) See below for a list of prize winners.
 
 
 # Logistics
@@ -49,3 +49,20 @@ values are better.
 1.  In order to claim your prize, you will need to fill out a post-competition survey.
 
 In addition, winning teams will have the opportunity to present their solutions at a meeting of participants and faculty this fall.
+
+# Winners!
+**Congratulations to the winning teams:**
+ * 1st place Undergraduate division- Bigcitybois
+ * 2nd place Undergraduate division- 21_techfacts
+ * 1st place Open division - Supergene 
+ * 2nd place Open division- The missile knows where it is at all times.
+
+If your team's final MSE was <172.15, your prediction beat random guessing and you will receive a prize! 
+* All individuals in the following teams will receive a prize: Supergene, BigCityBois, 21_techfacts, The missile knows where it is at all times, Yangxin, VIStA H., abhnv123, Ayo, Always Last, haoyunlai, elongan, Andrew Dettor, Team AF.
+* In order to claim your prize, you will need to **fill out two forms**: a post-competition [survey](https://forms.gle/7dKqhc7eVjQRWpZg7) and the following information [form](https://forms.gle/nuEriNzLUB54VBeS9). Your responses to the survey are anonymous.
+
+# Feedback and post-event information
+Thank you for participating in this competition! We hope that you enjoyed the event. Please give us feedback so that we can improve future events.
+* **Fill out the post-competition [survey](https://forms.gle/7dKqhc7eVjQRWpZg7).** 
+* If your team submitted predictions and you would like to receive a certificate of participation, please e-mail alarracu@bio.rochester.edu. 
+* Some of the winning teams will present their approach to the hackathon in an upcoming meeting of the GIDS working group in life and biomedical data science. You are all invited. Details about the meeting will come via e-mail once it is scheduled.
